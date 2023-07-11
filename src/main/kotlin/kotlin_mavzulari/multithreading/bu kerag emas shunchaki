@@ -1,0 +1,6 @@
+//1.sinxron bu->funksiyalar  ketma ket ishlasa sinxron boladi
+//2.assinxron bu -> funnksiyalar parallel ishlashi assinxron boladi
+//3.multithreading bu->kop oqimlilik
+// jarayon bor oqim bor
+// oqim jaraynlarni boshqaradi
+//thread yaratishning 2 turi bor 1->thread classidan voris olgan paytda 2->runnable interfase ni implement qilish orqali
